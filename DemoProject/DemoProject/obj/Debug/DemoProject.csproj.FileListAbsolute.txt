@@ -4,9 +4,18 @@ C:\Users\docto\source\repos\DemoProject\DemoProject\bin\Debug\DemoProject.pdb
 C:\Users\docto\source\repos\DemoProject\DemoProject\obj\Debug\DemoProject.csprojAssemblyReference.cache
 C:\Users\docto\source\repos\DemoProject\DemoProject\obj\Debug\DemoProject.exe
 C:\Users\docto\source\repos\DemoProject\DemoProject\obj\Debug\DemoProject.pdb
+<<<<<<< HEAD
 C:\demo1\WedDemo\DemoProject\DemoProject\bin\Debug\DemoProject.exe.config
 C:\demo1\WedDemo\DemoProject\DemoProject\bin\Debug\DemoProject.exe
 C:\demo1\WedDemo\DemoProject\DemoProject\bin\Debug\DemoProject.pdb
 C:\demo1\WedDemo\DemoProject\DemoProject\obj\Debug\DemoProject.csprojAssemblyReference.cache
 C:\demo1\WedDemo\DemoProject\DemoProject\obj\Debug\DemoProject.exe
 C:\demo1\WedDemo\DemoProject\DemoProject\obj\Debug\DemoProject.pdb
+=======
+C:\junker\WedDemo\DemoProject\DemoProject\bin\Debug\DemoProject.exe.config
+C:\junker\WedDemo\DemoProject\DemoProject\bin\Debug\DemoProject.exe
+C:\junker\WedDemo\DemoProject\DemoProject\bin\Debug\DemoProject.pdb
+C:\junker\WedDemo\DemoProject\DemoProject\obj\Debug\DemoProject.csprojAssemblyReference.cache
+C:\junker\WedDemo\DemoProject\DemoProject\obj\Debug\DemoProject.exe
+C:\junker\WedDemo\DemoProject\DemoProject\obj\Debug\DemoProject.pdb
+>>>>>>> 5f30cbdf42fa6d3f4bf9ae0a5bf51ba92eb0e67e
