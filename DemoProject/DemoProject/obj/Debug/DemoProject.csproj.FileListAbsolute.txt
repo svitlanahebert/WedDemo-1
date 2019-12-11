@@ -1,0 +1,6 @@
+C:\Users\docto\source\repos\DemoProject\DemoProject\bin\Debug\DemoProject.exe.config
+C:\Users\docto\source\repos\DemoProject\DemoProject\bin\Debug\DemoProject.exe
+C:\Users\docto\source\repos\DemoProject\DemoProject\bin\Debug\DemoProject.pdb
+C:\Users\docto\source\repos\DemoProject\DemoProject\obj\Debug\DemoProject.csprojAssemblyReference.cache
+C:\Users\docto\source\repos\DemoProject\DemoProject\obj\Debug\DemoProject.exe
+C:\Users\docto\source\repos\DemoProject\DemoProject\obj\Debug\DemoProject.pdb
